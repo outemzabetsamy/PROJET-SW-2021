@@ -6,7 +6,7 @@ Projet de réalisation d'une architecture services web d'un système qui concern
 * MAHIOUT Narimane.
 * SELAMI Ryma.
 * NASLI YOUCEF.
-* BELAIDEN Dalia.
+* BELAIDEN Dalya.
 ## Description du projet:
  
 >  ### [1.Le dossier PORTAIL-SW:](https://github.com/outemzabetsamy/PROJET-SW-2021/tree/master/PORTAIL%20SW/portailsw-master)
