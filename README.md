@@ -1,6 +1,6 @@
 # PROJET-SW-2021
 Projet de réalisation d'une architecture services web d'un système qui concerne le secteur du tourisme de la wilaya de BEJAIA,qui permettras aux touristes visitant la ville de Bejaia de bien profiter de leurs vacances.
-# Notre porjet contient au total 06 services web et fais appel a un service web publique.
+# Notre projet contient au total 06 services web et fais appel a un service web publique.
 ## Membre du groupe:
 * OUTEMZABET Samy.
 * MAHIOUT Narimane.
